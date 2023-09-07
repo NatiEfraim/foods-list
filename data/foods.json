@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "628f2816bc62122ad0063d26"
+  },
+  "name": "vanila cake",
+  "img": "https://images.pexels.com/photos/5426047/pexels-photo-5426047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 2000,
+  "price": 40,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f286bbc62122ad0063d28"
+  },
+  "name": "chocolate cake",
+  "img": "https://images.pexels.com/photos/132694/pexels-photo-132694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 2300,
+  "price": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f2894bc62122ad0063d2a"
+  },
+  "name": "mango cake",
+  "img": "https://www.pexels.com/photo/white-round-cake-topped-with-yellow-slice-fruit-140831/",
+  "cal": 2300,
+  "price": 55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f296fbc62122ad0063d2c"
+  },
+  "name": "Pasta",
+  "img": "https://images.pexels.com/photos/1438672/pexels-photo-1438672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 500,
+  "price": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f29cdbc62122ad0063d2e"
+  },
+  "name": "Onion pizza",
+  "img": "https://images.pexels.com/photos/1049626/pexels-photo-1049626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 800,
+  "price": 48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f2a24bc62122ad0063d30"
+  },
+  "name": "Greece pizza",
+  "img": "https://images.pexels.com/photos/367915/pexels-photo-367915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 700,
+  "price": 48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f2a6dbc62122ad0063d32"
+  },
+  "name": "Orange pie",
+  "img": "https://images.pexels.com/photos/2035738/pexels-photo-2035738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 740,
+  "price": 40,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f2a9abc62122ad0063d34"
+  },
+  "name": "Chocolate pie",
+  "img": "https://images.pexels.com/photos/3535390/pexels-photo-3535390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 520,
+  "price": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f2addbc62122ad0063d36"
+  },
+  "name": "Cola 330m",
+  "img": "https://images.pexels.com/photos/877308/pexels-photo-877308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 120,
+  "price": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f2b33bc62122ad0063d38"
+  },
+  "name": "Ice vanila drink",
+  "img": "https://images.pexels.com/photos/327131/pexels-photo-327131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "cal": 220,
+  "price": 19,
+  "__v": 0
+}]
